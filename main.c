@@ -7,6 +7,7 @@ int multiply(int a,int b) {return a * b;}
 int divided(int a,int b) {return a / b;}
 int main()
 {
+
 int a,c;
 char b;
 printf("key a function");
